@@ -21,3 +21,8 @@ $ cd MUNET-CVPR18-Workshop/
 $ python main.py --gpus 0
 ```
  
+ #### Milestone
+  - [x] Cifar dataset experiments
+  - [ ] SVHN dataset experiments
+  - [ ] Tiny ImageNet experiments
+  - [ ] Add results table
