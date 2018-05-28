@@ -16,10 +16,14 @@ $ cd MUNET-CVPR18-Workshop/
 ```
 
  2. Run
- 
+
 ```
-$ python main.py --gpus 0
+$ python main.py --gpus gpu-id
 ```
+For example, gpu-id is from 0 to 3 in case of 4GPUs device.
+
+If you use 1GPU device, then gpu-id is 0.
+
  
  #### Milestone
   - [x] Cifar dataset experiments
