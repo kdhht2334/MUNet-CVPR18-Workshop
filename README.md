@@ -24,5 +24,5 @@ $ python main.py --gpus 0
  #### Milestone
   - [x] Cifar dataset experiments
   - [ ] SVHN dataset experiments
-  - [ ] Tiny ImageNet experiments
+  - [ ] Tiny ImageNet dataset experiments
   - [ ] Add results table
