@@ -25,8 +25,21 @@ For example, gpu-id is from 0 to 3 in case of 4GPUs device.
 If you use 1GPU device, then gpu-id is 0.
 
  
- #### Milestone
+## Milestone
   - [x] Cifar dataset experiments
   - [ ] SVHN dataset experiments
   - [ ] Tiny ImageNet dataset experiments
   - [ ] Add results table
+ 
+## Citation
+
+If this work is helpful for your research, please cite our:
+```
+ @InProceedings{Kim_2018_CVPR_Workshops,
+author = {Ha Kim, Dae and Hyun Lee, Seung and Cheol Song, Byung},
+title = {MUNet: Macro Unit-Based Convolutional Neural Network for Mobile Devices},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2018}
+}
+```
