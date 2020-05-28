@@ -4,8 +4,8 @@ MUNet: Macro Unit-based Convolutional Neural Networks for Mobile Devices
 #### Dependencies
 
  * Python 3.5+
- * Tensorflow 1.2.0+
- * Keras 2.0.6+
+ * Tensorflow 1.2.0+ (tested upto version 1.14)
+ * Keras 2.0.6+ (tested upto version 2.2.4)
  
 #### Usage
  1. Cloning the repository
